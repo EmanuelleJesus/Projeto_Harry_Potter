@@ -68,7 +68,7 @@ st.write(f"- Tamanho: {personagem['wand']['length']} polegadas")
 
 
 st.write(f"**Patrono:** {personagem['patronus']}")
-st.write(f"**Ator/Atriz:** {personagem['actor']}")-                                                                           
+st.write(f"**Ator/Atriz:** {personagem['actor']}")                                                                      
 
 
 
